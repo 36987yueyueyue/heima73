@@ -1,5 +1,6 @@
 <template>
   <div id="app">
+    <!-- 路由渲染的位置 -->
     <router-view></router-view>
   </div>
 </template>
